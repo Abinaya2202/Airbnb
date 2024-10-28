@@ -1,6 +1,8 @@
-# Airbnb-Analysis---GUVI-Capstones
+# Airbnb-Analysis
 
-1.This project aims to analyze Airbnb data using MongoDB Atlas, perform data cleaning and preparation, develop interactive geospatial visualizations, and create dynamic plots to gain insights into pricing variations, availability patterns, and location-based trends. The objectives are to: 1.Establish a MongoDB connection, retrieve the Airbnb dataset, and ensure efficient data retrieval for analysis.
+### This project aims to analyze Airbnb data using MongoDB Atlas, perform data cleaning and preparation, develop interactive geospatial visualizations, and create dynamic plots to gain insights into pricing variations, availability patterns, and location-based trends. The objectives are to: 
+
+1.Establish a MongoDB connection, retrieve the Airbnb dataset, and ensure efficient data retrieval for analysis.
 
 2.Clean and prepare the dataset, addressing missing values, duplicates, and data type conversions for accurate analysis.
 
